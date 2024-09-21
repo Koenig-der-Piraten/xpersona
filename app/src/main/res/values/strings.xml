@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">xpersona</string>
+
+    <string name="greeting">Are you ready to be Persona?</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_icon_description">Sign in icon</string>
+
 </resources>
