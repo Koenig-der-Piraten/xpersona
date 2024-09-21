@@ -12,7 +12,20 @@
           "package_name": "cloud.xpersona.xpersona"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1034165639793-1ar1dviksmvfsiudootgtl7rci42vsgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.xpersona.xpersona",
+            "certificate_hash": "e96fcb609684fcfc12ebb07c5cc4d7a466280b74"
+          }
+        },
+        {
+          "client_id": "1034165639793-h6g0jprttsstg6d90igoqrq6i3lvadmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCx06cTFd9YhQRAbMRzGlFp35ez5zAmnyc"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034165639793-h6g0jprttsstg6d90igoqrq6i3lvadmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
