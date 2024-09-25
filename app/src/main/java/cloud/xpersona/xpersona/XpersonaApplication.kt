@@ -11,8 +11,7 @@ class XpersonaApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
-        val ctx: Context = this
-        configureKoin(ctx)
+        configureKoin(this)
     }
 
     private fun configureKoin(ctx: Context) {

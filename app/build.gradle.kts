@@ -86,4 +86,10 @@ dependencies {
     implementation(libs.androidx.credentials)
     implementation(libs.androidx.credentials.play.services.auth)
     implementation(libs.googleid)
+
+    // LiveData
+    implementation(libs.androidx.runtime.livedata)
+
+    // Lottie
+    implementation(libs.lottie.compose)
 }
